@@ -1,0 +1,15 @@
+.header { 
+    font-size: 1.2em;
+    height: 300px;
+    background: url(/images/background-beam-beautiful-33707.jpg);
+    background-size: cover;
+    background-position: bottom;
+    background-attachment: fixed;
+    margin-top: 60px;
+}
+
+.desc { 
+    color: rgba(59,125,23); 
+    font-size: 1.4em; 
+    font-weight: 700;
+    text-shadow: 0 2px 2px rgba(0,0,0,.05),0 10px 10px rgba(0,0,0,.02);}
